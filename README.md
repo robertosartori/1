@@ -4,7 +4,7 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/) and [1024](https
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
 ### Contributions
-
+ - [Gabriele Cirulli](https://github.com/gabrielecirulli/2048) for 2048.
  - [TimPetricola](https://github.com/TimPetricola) added best score storage
  - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
  - [elektryk](https://github.com/elektryk) made swipes work on Windows Phone
